@@ -89,7 +89,7 @@ We welcome contributions from the community! Whether you're fixing a bug, adding
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dicebear-go.git
+   git clone https://github.com/jvherck/dicebear-go.git
    cd dicebear-go
    ```
 
