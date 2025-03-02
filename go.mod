@@ -1,3 +1,3 @@
-module dicebear
+module dicebear-go
 
 go 1.23
