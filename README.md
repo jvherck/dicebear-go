@@ -3,10 +3,10 @@
 This allows you to easily generate tons of unique avatars in Go. 
 The API can generate more than 1 sexdecillion (that's 17 zeroes!) unique avatars!
 
+![dicebear-go version](https://img.shields.io/github/v/tag/jvherck/dicebear-go?sort=semver&label=version)
+![Go Version](https://img.shields.io/github/go-mod/go-version/jvherck/dicebear-go)
+![License](https://img.shields.io/github/license/jvherck/dicebear-go)
 ![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg)
-![Go Version](https://img.shields.io/github/go-mod/go-version/yourusername/dicebear)
-![License](https://img.shields.io/github/license/yourusername/dicebear)
-![Coverage](https://img.shields.io/codecov/c/github/yourusername/dicebear)
 
 ---
 
