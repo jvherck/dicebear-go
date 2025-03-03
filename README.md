@@ -1,5 +1,5 @@
 # Dicebear-go
-`dicebear-go` is a package that wraps around [dicebear](https://dicebear.com)'s API. 
+`dicebear-go` is a package that wraps around [DiceBear](https://dicebear.com)'s API. 
 This allows you to easily generate tons of unique avatars in Go. 
 The API can generate more than 1 sexdecillion (that's 17 zeroes!) unique avatars!
 
@@ -10,10 +10,19 @@ The API can generate more than 1 sexdecillion (that's 17 zeroes!) unique avatars
 
 ---
 
+## Other languages
+If you want to use Dicebear avatars but don't use Golang, you can use the 
+[dicebear Python package](https://github.com/jvherck/dicebear) or the 
+[official JS/TS package](https://github.com/dicebear/dicebear).
+
+---
+
 ## Table of contents
 <!-- TOC -->
 * [Dicebear-go](#dicebear-go)
+  * [Other languages](#other-languages)
   * [Table of contents](#table-of-contents)
+  * [Useful links](#useful-links)
   * [Installation](#installation)
   * [Basic usage](#basic-usage)
   * [Contributing](#contributing)
@@ -27,6 +36,16 @@ The API can generate more than 1 sexdecillion (that's 17 zeroes!) unique avatars
   * [Credits](#credits)
   * [Licenses and privacy policy](#licenses-and-privacy-policy)
 <!-- TOC -->
+
+---
+
+## Useful links
+* Official Dicebear: https://dicebear.com/
+* Go package: https://pkg.go.dev/github.com/jvherck/dicebear-go
+* Docs: https://dicebear-go.vhjan.me/#section-documentation
+* GitHub: https://github.com/jvherck/dicebear-go
+* Python package: https://github.com/jvherck/dicebear
+* JS/TS library: https://github.com/dicebear/dicebear
 
 ---
 
@@ -178,6 +197,8 @@ Thank you for contributing to `dicebear-go`! Your efforts help make this project
 Special thanks to [Dicebear](https://dicebear.com) ([Florian Körner](https://github.com/FlorianKoerner)) 
 for making this amazing API and to [all artists](https://dicebear.com/licenses) 
 for creating all the awesome avatars and artwork!
+
+Disclaimer: this repository and its owner are not affiliated with DiceBear.
 
 ---
 

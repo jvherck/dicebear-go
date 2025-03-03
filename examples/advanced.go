@@ -18,9 +18,9 @@ func main() {
 
 	// Define custom parameters for the avatar
 	customParams := map[string]string{
-		"mouth":       "smile",   // Customize the mouth
-		"eyes":        "happy",   // Customize the eyes
-		"accessories": "glasses", // Add accessories
+		"mouth":       "smile",      // Customize the mouth
+		"eyes":        "happy",      // Customize the eyes
+		"accessories": "sunglasses", // Add accessories
 	}
 
 	// Create a new avatar with the "avataaars" style, a custom seed, and options
@@ -60,5 +60,5 @@ Avatar saved to: avatar.png
 Avatar Schema:
 mouth: smile
 eyes: happy
-accessories: glasses
+accessories: sunglasses
 */
