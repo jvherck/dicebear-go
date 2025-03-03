@@ -1,7 +1,6 @@
 package main
 
 import (
-	"dicebear"
 	"fmt"
 	"log"
 
